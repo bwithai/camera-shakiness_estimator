@@ -1,0 +1,83 @@
+{
+  "input_path": "demo/traffic.mp4",
+  "fps": 29,
+  "segments": [
+    {
+      "start_frame": 0,
+      "end_frame": 59,
+      "class": "nonshaky_nonstationary",
+      "probabilities": {
+        "shaky_usable": 0.0,
+        "shaky_unusable": 0.0,
+        "nonshaky_stationary": 0.37,
+        "nonshaky_nonstationary": 0.63
+      }
+    },
+    {
+      "start_frame": 60,
+      "end_frame": 118,
+      "class": "nonshaky_nonstationary",
+      "probabilities": {
+        "shaky_usable": 0.0,
+        "shaky_unusable": 0.0,
+        "nonshaky_stationary": 0.42,
+        "nonshaky_nonstationary": 0.58
+      }
+    },
+    {
+      "start_frame": 119,
+      "end_frame": 177,
+      "class": "nonshaky_stationary",
+      "probabilities": {
+        "shaky_usable": 0.0,
+        "shaky_unusable": 0.0,
+        "nonshaky_stationary": 0.78,
+        "nonshaky_nonstationary": 0.22
+      }
+    },
+    {
+      "start_frame": 178,
+      "end_frame": 236,
+      "class": "nonshaky_stationary",
+      "probabilities": {
+        "shaky_usable": 0.0,
+        "shaky_unusable": 0.0,
+        "nonshaky_stationary": 0.83,
+        "nonshaky_nonstationary": 0.17
+      }
+    },
+    {
+      "start_frame": 237,
+      "end_frame": 295,
+      "class": "nonshaky_stationary",
+      "probabilities": {
+        "shaky_usable": 0.0,
+        "shaky_unusable": 0.0,
+        "nonshaky_stationary": 0.63,
+        "nonshaky_nonstationary": 0.37
+      }
+    },
+    {
+      "start_frame": 296,
+      "end_frame": 354,
+      "class": "nonshaky_stationary",
+      "probabilities": {
+        "shaky_usable": 0.0,
+        "shaky_unusable": 0.0,
+        "nonshaky_stationary": 0.71,
+        "nonshaky_nonstationary": 0.29
+      }
+    },
+    {
+      "start_frame": 355,
+      "end_frame": 377,
+      "class": "nonshaky_stationary",
+      "probabilities": {
+        "shaky_usable": 0.0,
+        "shaky_unusable": 0.0,
+        "nonshaky_stationary": 0.74,
+        "nonshaky_nonstationary": 0.26
+      }
+    }
+  ]
+}
