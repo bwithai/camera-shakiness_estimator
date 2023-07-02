@@ -1,0 +1,105 @@
+{
+  "input_path": "./demo/shaky-usable/10.mp4",
+  "fps": 29,
+  "segments": [
+    {
+      "start_frame": 0,
+      "end_frame": 59,
+      "class": "nonshaky_nonstationary",
+      "probabilities": {
+        "shaky_usable": 0.0,
+        "shaky_unusable": 0.0,
+        "nonshaky_stationary": 0.19,
+        "nonshaky_nonstationary": 0.81
+      }
+    },
+    {
+      "start_frame": 60,
+      "end_frame": 118,
+      "class": "nonshaky_nonstationary",
+      "probabilities": {
+        "shaky_usable": 0.0,
+        "shaky_unusable": 0.0,
+        "nonshaky_stationary": 0.46,
+        "nonshaky_nonstationary": 0.54
+      }
+    },
+    {
+      "start_frame": 119,
+      "end_frame": 177,
+      "class": "nonshaky_nonstationary",
+      "probabilities": {
+        "shaky_usable": 0.0,
+        "shaky_unusable": 0.0,
+        "nonshaky_stationary": 0.0,
+        "nonshaky_nonstationary": 1.0
+      }
+    },
+    {
+      "start_frame": 178,
+      "end_frame": 236,
+      "class": "nonshaky_nonstationary",
+      "probabilities": {
+        "shaky_usable": 0.0,
+        "shaky_unusable": 0.0,
+        "nonshaky_stationary": 0.44,
+        "nonshaky_nonstationary": 0.56
+      }
+    },
+    {
+      "start_frame": 237,
+      "end_frame": 295,
+      "class": "nonshaky_nonstationary",
+      "probabilities": {
+        "shaky_usable": 0.0,
+        "shaky_unusable": 0.0,
+        "nonshaky_stationary": 0.14,
+        "nonshaky_nonstationary": 0.86
+      }
+    },
+    {
+      "start_frame": 296,
+      "end_frame": 354,
+      "class": "nonshaky_nonstationary",
+      "probabilities": {
+        "shaky_usable": 0.0,
+        "shaky_unusable": 0.0,
+        "nonshaky_stationary": 0.0,
+        "nonshaky_nonstationary": 1.0
+      }
+    },
+    {
+      "start_frame": 355,
+      "end_frame": 413,
+      "class": "nonshaky_nonstationary",
+      "probabilities": {
+        "shaky_usable": 0.0,
+        "shaky_unusable": 0.0,
+        "nonshaky_stationary": 0.22,
+        "nonshaky_nonstationary": 0.78
+      }
+    },
+    {
+      "start_frame": 414,
+      "end_frame": 472,
+      "class": "nonshaky_nonstationary",
+      "probabilities": {
+        "shaky_usable": 0.0,
+        "shaky_unusable": 0.0,
+        "nonshaky_stationary": 0.24,
+        "nonshaky_nonstationary": 0.76
+      }
+    },
+    {
+      "start_frame": 473,
+      "end_frame": 515,
+      "class": "nonshaky_nonstationary",
+      "probabilities": {
+        "shaky_usable": 0.0,
+        "shaky_unusable": 0.0,
+        "nonshaky_stationary": 0.12,
+        "nonshaky_nonstationary": 0.88
+      }
+    }
+  ]
+}

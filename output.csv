@@ -1,0 +1,3 @@
+input_path,class
+./demo/shaky-unsuable/9.mp4,nonshaky_nonstationary
+./demo/stationary/stationary8.mp4,nonshaky_stationary
