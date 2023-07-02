@@ -34,7 +34,7 @@ def run():
         max_points=900,
         min_distance=14,
         transformations_getter=transformations_getter,
-        draw_flow=False,
+        draw_flow=True,
     )
 
     frames = 0
